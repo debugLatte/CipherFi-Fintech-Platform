@@ -1,4 +1,4 @@
-# 💰 FinTrack — Secure Personal Finance Platform
+# FinTrack — Secure Personal Finance Platform
 
 A full-stack fintech platform that enables users to manage accounts, track expenses, enforce budgets, detect suspicious transactions, and visualize financial insights through an interactive dashboard.
 
@@ -6,9 +6,9 @@ A full-stack fintech platform that enables users to manage accounts, track expen
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User Features
+###  User Features
 
 * Secure JWT Authentication
 * Multi-Account Management
@@ -18,7 +18,7 @@ A full-stack fintech platform that enables users to manage accounts, track expen
 * Personal Analytics Dashboard
 * Login History Monitoring
 
-### 🛡️ Security Features
+### Security Features
 
 * bcrypt Password Hashing
 * JWT-Based Authorization
@@ -28,7 +28,7 @@ A full-stack fintech platform that enables users to manage accounts, track expen
 * Budget Enforcement Triggers
 * Race Condition Protection using Row-Level Locks
 
-### 👨‍💼 Admin Features
+### Admin Features
 
 * User Management
 * Fraud Alert Monitoring
@@ -37,13 +37,13 @@ A full-stack fintech platform that enables users to manage accounts, track expen
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ![Architecture](assets/architecture.png)
 
 ---
 
-## 📊 Screenshots
+## Screenshots
 
 ### Dashboard
 
@@ -76,7 +76,7 @@ A full-stack fintech platform that enables users to manage accounts, track expen
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone Repository
 
@@ -135,7 +135,7 @@ http://localhost:5173
 
 ---
 
-## 🔑 Demo Credentials
+##  Demo Credentials
 
 | Email                                           | Password    | Role  |
 | ----------------------------------------------- | ----------- | ----- |
@@ -146,7 +146,7 @@ http://localhost:5173
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 backend/
@@ -156,7 +156,7 @@ sql/
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 The database follows Third Normal Form (3NF) to eliminate redundancy and maintain data integrity.
 
@@ -173,7 +173,7 @@ The database follows Third Normal Form (3NF) to eliminate redundancy and maintai
 
 ---
 
-## 🔒 Security Architecture
+##  Security Architecture
 
 * JWT Authentication
 * bcrypt Password Hashing
@@ -185,7 +185,7 @@ The database follows Third Normal Form (3NF) to eliminate redundancy and maintai
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 Disha Grover
 
